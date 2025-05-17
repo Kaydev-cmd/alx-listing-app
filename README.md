@@ -246,3 +246,13 @@
     </ul>
   </div>
 </section>
+
+<section>
+<h2>Conclusion</h2>
+<p>
+  This frontend-focused AirBnB Clone Project highlights expertise in building <br />
+  scalable, performant, and engaging user interfaces using React, Next.js, and <br />
+  TailwindCSS. It serves as a strong demonstration of modern frontend engineering <br />
+  practices and design principles.
+</p>
+</section>
