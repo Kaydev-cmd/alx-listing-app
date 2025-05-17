@@ -24,3 +24,135 @@
     <li>Integrate with a mock or illustrative backend via REST APIs</li>
   </ul>
 </section>
+
+<section>
+<h2>Features 🔧</h2>
+<h3>UI/UX Design Planning</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Primary Pages</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><strong>Property Listing View</strong></th>
+      <td>A page displaying various property listings with essential details and images.</td>
+    </tr>
+    <tr>
+      <th><strong>Listing Detailed View</strong></th>
+      <td>A detailed view of a specific property, including more extensive information and images.</td>
+    </tr>
+    <tr>
+      <th><strong>Simple Checkout View</strong></th>
+      <td>A streamlined process for booking properties.</td>
+    </tr>
+    <tr>
+      <th><strong>Search Functionality</strong></th>
+      <td>A robust search feature enabling users to find properties based on criteria like location, price, and availablitiy.</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  A user friendly design is crucial in a booking system because it ensures that users can <br /> 
+  navigate the platform easily and complete their bookings efficiently. An intuitive interface <br />
+  reduces friction, helping users move smoothly from browsing to checkout without <br />
+  confusion. This not only improves conversion rates but also builds trust by presenting a <br />
+  clean, professional experience, especially important when handling sensitive information <br />
+  like payment details. User-friendly systems are also more accessible, accomodating users <br />
+  of all abilities and technical backgrounds. By minimizing errors through guided <br />
+  interactions and responsive feedback, the design enhances satisfaction and increases the <br />
+  likelihood of repeat bookings and referrals.
+</p>
+<h4>Color Styles:</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Color</th>
+      <th>Usage</th>
+      <th>Hex Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Rausch (Primary)</th>
+      <td>Buttons, highlights, links</td>
+      <td>#FF5A5F</td>
+    </tr>
+    <tr>
+      <th>Dark Charcoal</th>
+      <td>Primary text</td>
+      <td>#484848</td>
+    </tr>
+    <tr>
+      <th>Babu (Accent)</th>
+      <td>Icons, secondary buttons</td>
+      <td>#00A699</td>
+    </tr>
+    <tr>
+      <th>Arches (Background)</th>
+      <td>App background and surfaces</td>
+      <td>#F7F7F7</td>
+    </tr>
+    <tr>
+      <th>White</th>
+      <td>Card and modal backgrounds</td>
+      <td>#FFFFFF</td>
+    </tr>
+    <tr>
+      <th>Gray</th>
+      <td>Border, secondary text, placeholders</td>
+      <td>#767676</td>
+    </tr>
+  </tbody>
+</table>
+<h4>Typography:</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Text Style</th>
+      <th>Font Size</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Heading 1</th>
+      <td>32px</td>
+      <td>Bold</td>
+    </tr>
+    <tr>
+      <th>Heading 2</th>
+      <td>24px</td>
+      <td>Semibold</td>
+    </tr>
+    <tr>
+      <th>Body Large</th>
+      <td>18px</td>
+      <td>Regular</td>
+    </tr>
+    <tr>
+      <th>Body Medium</th>
+      <td>16px</td>
+      <td>Regular</td>
+    </tr>
+    <tr>
+      <th>Caption/Label Text</th>
+      <td>14px</td>
+      <td>Medium</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  Identifying the design properties of a mockup is essential because it provides a clear <br /> 
+  blueprint for how the final product should look and function. These properties, such as <br />
+  layout, color scheme, typography, spacing, and component hierarchy, ensure visual <br />
+  consistency and usability across the interface. Understanding these elements early allows <br />
+  developers and designers to align on expectations, avoid miscommunication, and <br />
+  streamline the development process. It also helps in evaluating whether the design meets <br />
+  accesibility standards, aligns with brand identity, and provides an intuitive user <br />
+  experience. Ultimately, recognizing design properties in a mockup lays the foundation for <br />
+  building a cohesive, functional, and visually applealing product.
+</p>
+</section>
