@@ -266,12 +266,12 @@
   <div>
     <ol>
       <li>
-        Clone the Repository
+        Clone the Repository:
         <p>git clone https://github.com/your-username/your-project-name.git</p>
         <p>cd your-project-name</p>
       </li>
       <li>
-        Install Dependencies
+        Install Dependencies:
         <p>Make sure you have Node.js installed (preferably the latest LTS version)</p>
         <p>
           Then run:
@@ -279,7 +279,7 @@
         <p>npm install</p>
       </li>
       <li>
-        Start the Development Server
+        Start the Development Server:
         <p>npm run dev</p>
         <p>
           This app will be available at: <br/>
