@@ -268,7 +268,7 @@
       <li>
         Clone the Repository:
         <p>git clone https://github.com/Kaydev-cmd/alx-listing-app.git</p>
-        <p>cd your-project-name</p>
+        <p>cd alx-listing-app</p>
       </li>
       <li>
         Install Dependencies:
