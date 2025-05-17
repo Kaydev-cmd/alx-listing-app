@@ -232,3 +232,17 @@
   </ul>
 </div>
 </section>
+
+<section>
+<h2>Tech Stack 💻</h2>
+  <div>
+    <h3>Frontend:</h3>
+    <ul>
+      <li><strong>React with TypeScript</strong>: Component-based UI with type safety</li>
+      <li><strong>Next.js</strong>: Server-side rendering (SSR) and static site generation (SSG)</li>
+      <li><strong>TailwindCSS</strong>: Utility-first CSS for fast and responsive styling</li>
+      <li><strong>Redux or Context API</strong>: Global state management</li>
+      <li><strong>Jest</strong>: Unit and integration testing for components</li>
+    </ul>
+  </div>
+</section>
