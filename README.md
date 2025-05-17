@@ -156,3 +156,79 @@
   building a cohesive, functional, and visually applealing product.
 </p>
 </section>
+
+<section>
+<h2>UI Component Patterns 🧩</h2>
+
+<div>
+  <h3>Navbar:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Acts as the main navigation element.</li>
+    <li><strong>Features</strong>: Logo, search bar, login/signup buttons, host dashboard link, and user avatar dropdown.</li>
+    <li><strong>Behavior</strong>: Sticky on scroll, responsive layout, mobile drawer for smaller screens.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Property Card:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Displays a brief preview of a rental listing.</li>
+    <li><strong>Features</strong>: Image, title, location, price per night, rating, and a "heart" icon for wishlists.</li>
+    <li><strong>Behavior</strong>: On click, it navigates to the Property Detail Page. Responsive grid layout.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Footer:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Provides site-wide links and legal information.</li>
+    <li><strong>Features</strong>: Links to About, Help, Privacy Policy, Terms, and social icons.</li>
+    <li><strong>Behavior</strong>: Responsive design with stacked layout on mobile.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Search Bar:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Allows users to search for listings by location, date, and guests.</li>
+    <li><strong>Features</strong>: Input fields with date picker and guest dropdown.</li>
+    <li><strong>Behavior</strong>: Triggers listing fetch based on filter.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Date Picker:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Lets users check-in and check-out dates.</li>
+    <li><strong>Features</strong>: Calender popup with selectable ranges.</li>
+    <li><strong>Behavior</strong>: Used in search and booking interfaces.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Booking Modal:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Collects user info for booking and shows a pricing breakdown.</li>
+    <li><strong>Features</strong>: Form elements, summary section, and confirmation button.</li>
+    <li><strong>Behavior</strong>: Pops up from the Property Detail Page.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Listing Detail Component:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Displays full property details on a seperate page.</li>
+    <li><strong>Features</strong>: Photo gallery, host info, amenities list, reviews.</li>
+    <li><strong>Behavior</strong>: Pulls data dynamically based on listing ID.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Loader / Skeleton UI:</h3>
+  <ul>
+    <li><strong>Purpose</strong>: Displays placeholders while data loads.</li>
+    <li><strong>Features</strong>: Pulse animations, layout-matching placeholders.</li>
+    <li><strong>Behavior</strong>: Replaces content until fetch is complete.</li>
+  </ul>
+</div>
+</section>
