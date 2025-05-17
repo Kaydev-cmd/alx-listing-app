@@ -13,3 +13,14 @@
   management.
   </p>
 </section>
+
+<section>
+<h2>Project Goals 🏆</h2>
+  <ul>
+    <li>Replicate key frontend features of AirBnB (listing, booking, authentication interfaces)</li>
+    <li>Deliver a responsive, mobile-first UI using TailwindCSS</li>
+    <li>Implement client-side and server-side rendering for improved performance and SEO</li>
+    <li>Practice scalable and maintainable frontend architecture using React and Next.js</li>
+    <li>Integrate with a mock or illustrative backend via REST APIs</li>
+  </ul>
+</section>
