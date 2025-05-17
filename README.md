@@ -256,3 +256,36 @@
   practices and design principles.
 </p>
 </section>
+
+<section>
+  <h1>🚀 Running the Project Locally</h1>
+  <p>
+    Follow these steps to get the project up and running on your local machine
+  </p>
+
+  <div>
+    <ol>
+      <li>
+        Clone the Repository
+        <p>git clone https://github.com/your-username/your-project-name.git</p>
+        <p>cd your-project-name</p>
+      </li>
+      <li>
+        Install Dependencies
+        <p>Make sure you have Node.js installed (preferably the latest LTS version)</p>
+        <p>
+          Then run:
+        </p>
+        <p>npm install</p>
+      </li>
+      <li>
+        Start the Development Server
+        <p>npm run dev</p>
+        <p>
+          This app will be available at: <br/>
+          http://localhost:3000
+        </p>
+      </li>
+    </ol>
+  </div>
+</section>
