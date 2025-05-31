@@ -246,4 +246,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image13.jpg",
     discount: "35",
   },
+  {
+    name: "Downtown Apartment",
+    address: {
+      state: "Tokyo",
+      city: "Tokyo",
+      country: "Japan",
+    },
+    rating: 4.81,
+    category: ["City Center", "Free WiFi", "Public Transport"],
+    price: 2200,
+    offers: {
+      bed: "1",
+      shower: "1",
+      occupants: "2",
+    },
+    image: "https://example.com/image14.jpg",
+    discount: "",
+  },
 ];
