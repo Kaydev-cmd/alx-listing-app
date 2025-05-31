@@ -102,4 +102,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image5.jpg",
     discount: "20",
   },
+  {
+    name: "Modern Beachfront Villa",
+    address: {
+      state: "Sidemen",
+      city: "Bali",
+      country: "Indonesia",
+    },
+    rating: 4.95,
+    category: ["Beachfront", "Private Pool", "Chef Service"],
+    price: 5000,
+    offers: {
+      bed: "5",
+      shower: "4",
+      occupants: "8-10",
+    },
+    image: "https://example.com/image6.jpg",
+    discount: "",
+  },
 ];
