@@ -210,4 +210,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image11.jpg",
     discount: "50",
   },
+  {
+    name: "Coastal Escape Villa",
+    address: {
+      state: "Noosa",
+      city: "Queensland",
+      country: "Australia",
+    },
+    rating: 4.83,
+    category: ["Beachfront", "Pet Friendly", "Free Parking"],
+    price: 3400,
+    offers: {
+      bed: "3",
+      shower: "3",
+      occupants: "4-6",
+    },
+    image: "https://example.com/image12.jpg",
+    discount: "",
+  },
 ];
