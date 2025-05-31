@@ -30,3 +30,9 @@ export interface PropertyProps {
   image: string;
   discount: string;
 }
+
+export interface LabeledInputProps {
+  label: string;
+  id: string;
+  placeholder: string;
+}
