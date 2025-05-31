@@ -228,4 +228,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image12.jpg",
     discount: "",
   },
+  {
+    name: "Historical Villa",
+    address: {
+      state: "Florence",
+      city: "Tuscany",
+      country: "Italy",
+    },
+    rating: 4.67,
+    category: ["Historical", "Free Breakfast", "Self Checkin"],
+    price: 2700,
+    offers: {
+      bed: "2",
+      shower: "2",
+      occupants: "2-4",
+    },
+    image: "https://example.com/image13.jpg",
+    discount: "35",
+  },
 ];
