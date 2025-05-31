@@ -66,4 +66,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image3.jpg",
     discount: "",
   },
+  {
+    name: "City Lights Penthouse",
+    address: {
+      state: "New York",
+      city: "New York",
+      country: "USA",
+    },
+    rating: 4.85,
+    category: ["City View", "Free WiFi", "24h Checkin"],
+    price: 4500,
+    offers: {
+      bed: "2",
+      shower: "2",
+      occupants: "2-4",
+    },
+    image: "https://example.com/image4.jpg",
+    discount: "15",
+  },
 ];
