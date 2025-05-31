@@ -192,4 +192,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image10.jpg",
     discount: "40",
   },
+  {
+    name: "Cliffside Villa",
+    address: {
+      state: "Amalfi",
+      city: "Salerno",
+      country: "Italy",
+    },
+    rating: 4.93,
+    category: ["Cliffside", "Infinity Pool", "Sea View"],
+    price: 6000,
+    offers: {
+      bed: "4",
+      shower: "4",
+      occupants: "6-8",
+    },
+    image: "https://example.com/image11.jpg",
+    discount: "50",
+  },
 ];
