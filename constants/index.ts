@@ -156,4 +156,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image8.jpg",
     discount: "25",
   },
+  {
+    name: "Urban Loft",
+    address: {
+      state: "Berlin",
+      city: "Berlin",
+      country: "Germany",
+    },
+    rating: 4.6,
+    category: ["City Center", "Free WiFi", "24h Checkin"],
+    price: 2000,
+    offers: {
+      bed: "2",
+      shower: "1",
+      occupants: "2-3",
+    },
+    image: "https://example.com/image9.jpg",
+    discount: "",
+  },
 ];
