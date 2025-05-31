@@ -120,4 +120,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image6.jpg",
     discount: "",
   },
+  {
+    name: "Lakeside Chalet",
+    address: {
+      state: "Banff",
+      city: "Alberta",
+      country: "Canada",
+    },
+    rating: 4.65,
+    category: ["Lakeside", "Mountain View", "Hiking Trails"],
+    price: 2300,
+    offers: {
+      bed: "3",
+      shower: "3",
+      occupants: "4-5",
+    },
+    image: "https://example.com/image7.jpg",
+    discount: "10",
+  },
 ];
