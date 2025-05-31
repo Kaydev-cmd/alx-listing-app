@@ -282,4 +282,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image15.jpg",
     discount: "20",
   },
+  {
+    name: "Countryside Cottage",
+    address: {
+      state: "Cotswolds",
+      city: "Gloucestershire",
+      country: "UK",
+    },
+    rating: 4.58,
+    category: ["Countryside", "Fireplace", "Self Checkin"],
+    price: 1800,
+    offers: {
+      bed: "2",
+      shower: "1",
+      occupants: "2-4",
+    },
+    image: "https://example.com/image16.jpg",
+    discount: "25",
+  },
 ];
