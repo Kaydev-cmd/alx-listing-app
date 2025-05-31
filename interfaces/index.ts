@@ -36,3 +36,9 @@ export interface LabeledInputProps {
   id: string;
   placeholder: string;
 }
+
+export interface PillProps {
+  label: string;
+  isActive?: boolean;
+  onClick?: () => void;
+}
