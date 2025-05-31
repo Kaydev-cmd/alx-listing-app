@@ -336,4 +336,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image18.jpg",
     discount: "",
   },
+  {
+    name: "Island Paradise Villa",
+    address: {
+      state: "Mahe",
+      city: "Victoria",
+      country: "Seychelles",
+    },
+    rating: 4.98,
+    category: ["Beachfront", "Private Pool", "Chef Service"],
+    price: 6500,
+    offers: {
+      bed: "5",
+      shower: "5",
+      occupants: "8-10",
+    },
+    image: "https://example.com/image19.jpg",
+    discount: "60",
+  },
 ];
