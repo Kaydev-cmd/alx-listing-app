@@ -264,4 +264,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image14.jpg",
     discount: "",
   },
+  {
+    name: "Luxury Safari Lodge",
+    address: {
+      state: "Serengeti",
+      city: "Mara",
+      country: "Tanzania",
+    },
+    rating: 4.97,
+    category: ["Safari", "Guided Tours", "Free Breakfast"],
+    price: 4500,
+    offers: {
+      bed: "4",
+      shower: "4",
+      occupants: "6-8",
+    },
+    image: "https://example.com/image15.jpg",
+    discount: "20",
+  },
 ];
