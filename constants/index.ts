@@ -46,6 +46,24 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
       occupants: "5-7",
     },
     image: "https://example.com/image2.jpg",
+    discount: "30",
+  },
+  {
+    name: "Cozy Desert Retreat",
+    address: {
+      state: "Palm Springs",
+      city: "California",
+      country: "USA",
+    },
+    rating: 4.92,
+    category: ["Desert View", "Pet Friendly", "Self Checkin"],
+    price: 1500,
+    offers: {
+      bed: "2",
+      shower: "1",
+      occupants: "2-3",
+    },
+    image: "https://example.com/image3.jpg",
     discount: "",
   },
 ];
