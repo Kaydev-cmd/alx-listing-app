@@ -174,4 +174,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image9.jpg",
     discount: "",
   },
+  {
+    name: "Secluded Forest Cabin",
+    address: {
+      state: "Whistler",
+      city: "British Columbia",
+      country: "Canada",
+    },
+    rating: 4.72,
+    category: ["Secluded", "Hot Tub", "Self Checkin"],
+    price: 2600,
+    offers: {
+      bed: "4",
+      shower: "2",
+      occupants: "5-7",
+    },
+    image: "https://example.com/image10.jpg",
+    discount: "40",
+  },
 ];
