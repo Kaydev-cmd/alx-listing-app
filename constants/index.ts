@@ -138,4 +138,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image7.jpg",
     discount: "10",
   },
+  {
+    name: "Tropical Garden Villa",
+    address: {
+      state: "Koh Samui",
+      city: "Surat Thani",
+      country: "Thailand",
+    },
+    rating: 4.8,
+    category: ["Garden", "Free Parking", "Self Checkin"],
+    price: 2750,
+    offers: {
+      bed: "3",
+      shower: "3",
+      occupants: "5-6",
+    },
+    image: "https://example.com/image8.jpg",
+    discount: "25",
+  },
 ];
