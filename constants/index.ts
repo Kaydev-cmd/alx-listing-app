@@ -300,4 +300,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image16.jpg",
     discount: "25",
   },
+  {
+    name: "Riverfront Mansion",
+    address: {
+      state: "Paris",
+      city: "Île-de-France",
+      country: "France",
+    },
+    rating: 4.86,
+    category: ["Riverfront", "Private Garden", "Self Checkin"],
+    price: 5000,
+    offers: {
+      bed: "4",
+      shower: "3",
+      occupants: "6-8",
+    },
+    image: "https://example.com/image17.jpg",
+    discount: "30",
+  },
 ];
