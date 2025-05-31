@@ -318,4 +318,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image17.jpg",
     discount: "30",
   },
+  {
+    name: "Ski Chalet",
+    address: {
+      state: "Zermatt",
+      city: "Valais",
+      country: "Switzerland",
+    },
+    rating: 4.75,
+    category: ["Mountain View", "Ski Access", "Fireplace"],
+    price: 3900,
+    offers: {
+      bed: "3",
+      shower: "3",
+      occupants: "4-5",
+    },
+    image: "https://example.com/image18.jpg",
+    discount: "",
+  },
 ];
