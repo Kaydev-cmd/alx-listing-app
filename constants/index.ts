@@ -30,4 +30,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image1.jpg",
     discount: "",
   },
+  {
+    name: "Mountain Escape Chalet",
+    address: {
+      state: "Aspen",
+      city: "Colorado",
+      country: "USA",
+    },
+    rating: 4.7,
+    category: ["Mountain View", "Fireplace", "Self Checkin"],
+    price: 1800,
+    offers: {
+      bed: "4",
+      shower: "2",
+      occupants: "5-7",
+    },
+    image: "https://example.com/image2.jpg",
+    discount: "",
+  },
 ];
