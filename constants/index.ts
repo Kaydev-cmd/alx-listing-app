@@ -84,4 +84,22 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image4.jpg",
     discount: "15",
   },
+  {
+    name: "Riverside Cabin",
+    address: {
+      state: "Queenstown",
+      city: "Otago",
+      country: "New Zealand",
+    },
+    rating: 4.77,
+    category: ["Riverside", "Private Dock", "Free Kayaks"],
+    price: 2800,
+    offers: {
+      bed: "3",
+      shower: "2",
+      occupants: "4-6",
+    },
+    image: "https://example.com/image5.jpg",
+    discount: "20",
+  },
 ];
