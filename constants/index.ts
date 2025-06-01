@@ -1,3 +1,5 @@
+import { PropertyProps } from "@/interfaces";
+
 // API URLs
 export const API_URL = "htts://example.com/api";
 
