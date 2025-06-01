@@ -42,3 +42,10 @@ export interface PillProps {
   isActive?: boolean;
   onClick?: () => void;
 }
+
+export interface PropertyCardProps {
+  name: string;
+  price: string;
+  rating: number;
+  image: string;
+}
