@@ -45,7 +45,7 @@ export interface PillProps {
 
 export interface PropertyCardProps {
   name: string;
-  price: string;
+  price: number;
   rating: number;
   image: string;
 }
